@@ -17,7 +17,7 @@ Follow these steps to set up and run the project locally:
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Complaint-Management-System.git
+   git clone https://github.com/surendraguna/Complaint-Management-System.git
 
 3. **Move the Project to XAMPP:**
    - Copy or move the cloned repository into the `htdocs` directory of your XAMPP installation (typically found in `C:\xampp\htdocs` on Windows).
