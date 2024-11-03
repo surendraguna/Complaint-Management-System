@@ -1,7 +1,7 @@
 # Complaint Management System
 
 ## Description
-The Complaint Management System is a web application designed to streamline the process of lodging, tracking, and managing complaints within an organization. This system enables users to register and submit complaints, which can then be reviewed and addressed by an administrator or relevant personnel. Built using PHP, CSS, JavaScript, and a MySQL database, it provides an organized and efficient way to resolve user issues.
+The Complaint Management System is a web application designed to streamline the process of lodging, tracking, and managing complaints within an organization. This system enables users to register and submit complaints, which can then be reviewed and addressed by relevant personnel. Built using PHP, CSS, JavaScript, and a MySQL database, it provides an organized and efficient way to resolve user issues.
 
 ## Table of Contents
 - [Installation](#installation)
